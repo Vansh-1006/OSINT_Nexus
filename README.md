@@ -70,7 +70,7 @@ Then:
 
 ```bash
 cd ~/Downloads/OSINT_Project
-./install.sh
+chmod +x setup.sh && ./setup.sh
 ```
 
 After the first setup:
